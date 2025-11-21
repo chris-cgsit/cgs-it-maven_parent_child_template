@@ -1,0 +1,1 @@
+# cgs-it-maven_parent_child_template
